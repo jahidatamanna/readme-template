@@ -12,7 +12,7 @@ this is second line  <hr>
 ###### jahida tamanna
 
 
-<p>This is Jahida Tamanna .I am 23 years old.I just finished my BSC at AIUB.This a well reputated university in Bangladesh.</p>
+<p>This is Jahida Tamanna .I am 23 years old.I just finished my BSC at AIUB.This a well reputed university in Bangladesh.</p>
 
 
 <br>
